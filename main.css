@@ -1,0 +1,55 @@
+body{
+    background-color: RGB(7, 13, 27);
+}
+
+header{
+    background-color: RGB(7, 13, 27);
+}
+
+.img1{
+    position: absolute;
+    margin-left: 880px;
+    width: 15px;
+    margin-top: -8px;
+}
+li{
+    display: inline;
+    position: relative;
+    left: 360px;
+    padding: 15px;
+    margin-top: -10px;
+    margin-left: -10px;
+    font-size: 11px;
+}
+.p1{
+    color: yellow;
+    margin-top: 150px;
+    margin-left: 220px;
+    font-size: 30px;
+}
+.p2{
+    color: white;
+    margin-top: -20px;
+    margin-left: 220px;
+    font-size: 50px;
+}
+.p3{
+    color: white;
+    margin-top: -20px;
+    margin-left: 220px;
+    font-size: 30px;
+}
+.button1{
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    background-color: rgb(216, 216, 122);
+    margin-left: 220px;
+    margin-top: 10px;
+    border: 0px;
+    border-color: yellow;
+}
+.button1:hover{
+    background-color: antiquewhite;
+    box-shadow: 2px 1px 5px 2px lightblue;
+}
